@@ -1,0 +1,7 @@
+Source code in this repository is covered by one of two licenses: (i) the
+GNU General Public License (GPL) v3.0 (ii) the MIT License. The
+default license throughout the repository is GPL v3.0 unless the header
+specifies another license.
+
+GPL v3.0:
+https://github.com/v3rmillion-rip/mybb_plugins/blob/main/LICENSE_GPL.txt
